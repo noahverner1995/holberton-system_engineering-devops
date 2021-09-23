@@ -1,0 +1,2 @@
+#get how many lines of code a particular text file has
+wc -l "filename"
