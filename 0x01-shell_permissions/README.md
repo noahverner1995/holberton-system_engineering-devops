@@ -1,5 +1,5 @@
 #updatelater
-<h1>This repository is about Shell, permissions</h1>
+<h1>This directory is about Shell, permissions</h1>
 <br></br>
 yall should check https://chmodcommand.com/, worth reading
 and also https://www.ibm.com/docs/en/aix/7.2?topic=f-find-command 
